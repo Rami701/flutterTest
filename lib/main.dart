@@ -85,7 +85,7 @@ class _MyHomePageState extends State<MyHomePage> {
           //
           // Invoke "debug painting" (press "p" in the console, choose the
           // "Toggle Debug Paint" action from the Flutter Inspector in Android
-          // Studio, or the "Toggle Debug Paint" command in Visual Studio Code)
+          // Studio, or the "Toggle Debug Paint" command in Visual  Studio Code)
           // to see the wireframe for each widget.
           //
           // Column has various properties to control how it sizes itself and
